@@ -53,9 +53,9 @@ Ao final deve se exibir uma mensagem:
 
 ⚡⚡ ** NESSE DESAFIO EU ME DESAFIEI DE VERDADE COM OS CONHECIMENTOS BÁSICOS QUE APRENDI NO CURSO ATÉ ENTÃO, E ME PROPUS A FAZER A RESOLUÇÃO DO DESAFIO DE 3 FORMAS DIFERENTES: 
 
-**1- Usei laço de repetição If - else \
-2- Usei laço de repetição Do - While \
-3- Usei array em conjunto com if - else**
+**1- Usei Estrutura de condição if-else  \
+2- Usei estrutura de decição Switch Case \
+3- Usei array em conjunto com estrutura de condição if-else e laço de repetição For**
 #### 🚀 *Desafio você a se desafiar também com esse desafio muito massa, o nome do herói no desafio é o nome do meu jogador no Valorant, sim, tenho um canal de Valorant no Youtube, e você pode conferir [clicando aqui](https://www.youtube.com/@tyrok_)* 🚀
 
 ## [meu linkedIn aqui](https://www.linkedin.com/in/jean-christian-de-moraes-24005a234/) 💻
